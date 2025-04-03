@@ -6,6 +6,7 @@ A minimal boilerplate for quickly bootstrapping projects with:
 - TypeScript
 - Tailwind CSS
 - Vitest (testing setup included)
+- Husky (Git hooks)
 
 This is a simple starter I use for new projects — feel free to clone or fork it as a base for your own.
 
@@ -19,6 +20,7 @@ This is a simple starter I use for new projects — feel free to clone or fork i
 - ✅ Vitest (with JSDOM + Testing Library)
 - ✅ ESLint & Prettier
 - ✅ Path aliases (`@/`)
+- ✅ Husky (Git hooks for linting, formatting, etc.)
 
 ---
 

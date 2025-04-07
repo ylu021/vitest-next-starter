@@ -4,7 +4,7 @@ A minimal boilerplate for quickly bootstrapping projects with:
 
 - Next.js (App Router)
 - TypeScript
-- Tailwind CSS
+- Tailwind CSS & Prettier Tailwind CSS Plugin (Sorting)
 - Vitest (testing setup included)
 - Husky (Git hooks)
 
@@ -31,3 +31,4 @@ git clone https://github.com/yourusername/nextkit.git
 cd vitest-next-starter
 pnpm install      # or yarn / npm
 pnpm dev
+```
